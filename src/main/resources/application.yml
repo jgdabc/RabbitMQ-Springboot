@@ -1,0 +1,9 @@
+spring:
+#  profiles:
+#    active: dev
+  rabbitmq:
+    host: 123.56.4.32 #远程主机外网地址
+    username: shabi #远程用户名
+    password: 123456 #密码
+    virtual-host: shabi #虚拟机名称
+    port: 5672 #远程主机端口名称

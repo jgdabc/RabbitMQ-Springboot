@@ -1,0 +1,9 @@
+# 应用名称
+spring.application.name=boot_rabbit
+#配置rabbitmq的基本信息
+spring.rabbitmq.host=123.56.4.32
+spring.rabbitmq.username=jgdabc
+spring.rabbitmq.port=5672
+spring.rabbitmq.password=123456
+spring.rabbitmq.virtual-host=/
+

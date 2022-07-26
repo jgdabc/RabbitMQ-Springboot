@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: 123.56.4.32
+    username: jgdabc
+    password: 123456
+    virtual-host: shabi
+    port: 5672
